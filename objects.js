@@ -1,6 +1,6 @@
 var playlist = {name: "title"};
 
 function updatePlaylist (playlistObject, name, title) {
-  var playListObject = {name = "title"};
-  return playListObject
+  var playlistObject = {name = "title"};
+  return playlistObject
 }
